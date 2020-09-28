@@ -52,7 +52,7 @@
             <field name="view_mode">tree,form</field>
         </record>
 
-        <menuitem id="message_day" name="Message of the day" parent="petstore_menu"
+        <menuitem id="message_day" name="Message off the day" parent="petstore_menu"
             action="message_of_the_day_action"/>
 
         <record model="ir.actions.act_window" id="pet_toys_action">
